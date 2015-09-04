@@ -15,7 +15,7 @@
 		0CCA9C531B99E55E000378B5 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CCA9C521B99E55E000378B5 /* TestViewController.m */; };
 		0CCA9C571B99E61D000378B5 /* ZLSlideCategoryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CCA9C561B99E61D000378B5 /* ZLSlideCategoryView.m */; };
 		0CCA9C5A1B99E691000378B5 /* TopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CCA9C591B99E691000378B5 /* TopView.m */; };
-		0CCA9C5D1B99E6F0000378B5 /* SlideCategoryCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CCA9C5C1B99E6F0000378B5 /* SlideCategoryCell.m */; };
+		0CCA9C601B9A0F91000378B5 /* SlideCategoryCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CCA9C5F1B9A0F91000378B5 /* SlideCategoryCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,8 +45,8 @@
 		0CCA9C561B99E61D000378B5 /* ZLSlideCategoryView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZLSlideCategoryView.m; sourceTree = "<group>"; };
 		0CCA9C581B99E691000378B5 /* TopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TopView.h; sourceTree = "<group>"; };
 		0CCA9C591B99E691000378B5 /* TopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TopView.m; sourceTree = "<group>"; };
-		0CCA9C5B1B99E6F0000378B5 /* SlideCategoryCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SlideCategoryCell.h; path = ../../../ZLSlideCategory_1/ZLSlideCategory/ZLSlideCategoryView/SlideCategoryCell.h; sourceTree = "<group>"; };
-		0CCA9C5C1B99E6F0000378B5 /* SlideCategoryCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SlideCategoryCell.m; path = ../../../ZLSlideCategory_1/ZLSlideCategory/ZLSlideCategoryView/SlideCategoryCell.m; sourceTree = "<group>"; };
+		0CCA9C5E1B9A0F91000378B5 /* SlideCategoryCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlideCategoryCell.h; sourceTree = "<group>"; };
+		0CCA9C5F1B9A0F91000378B5 /* SlideCategoryCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlideCategoryCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,8 +141,8 @@
 				0CCA9C561B99E61D000378B5 /* ZLSlideCategoryView.m */,
 				0CCA9C581B99E691000378B5 /* TopView.h */,
 				0CCA9C591B99E691000378B5 /* TopView.m */,
-				0CCA9C5B1B99E6F0000378B5 /* SlideCategoryCell.h */,
-				0CCA9C5C1B99E6F0000378B5 /* SlideCategoryCell.m */,
+				0CCA9C5E1B9A0F91000378B5 /* SlideCategoryCell.h */,
+				0CCA9C5F1B9A0F91000378B5 /* SlideCategoryCell.m */,
 			);
 			path = ZLSlideCategoryView;
 			sourceTree = "<group>";
@@ -247,11 +247,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0CCA9C571B99E61D000378B5 /* ZLSlideCategoryView.m in Sources */,
+				0CCA9C601B9A0F91000378B5 /* SlideCategoryCell.m in Sources */,
 				0CCA9C5A1B99E691000378B5 /* TopView.m in Sources */,
 				0CCA9C531B99E55E000378B5 /* TestViewController.m in Sources */,
 				0CCA9C361B99E508000378B5 /* AppDelegate.m in Sources */,
 				0CCA9C331B99E508000378B5 /* main.m in Sources */,
-				0CCA9C5D1B99E6F0000378B5 /* SlideCategoryCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

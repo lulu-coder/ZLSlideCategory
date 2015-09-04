@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C4E4DEA-F55E-42A1-AD84-340CE24E49EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZLSlideCategory</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C102511D59E114538026F1801B4420CB1E4BF95B</key>
+		<string>https://github.com/lulu-coder/ZLSlideCategory.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZLSlideCategory.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C102511D59E114538026F1801B4420CB1E4BF95B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lulu-coder/ZLSlideCategory.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C102511D59E114538026F1801B4420CB1E4BF95B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C102511D59E114538026F1801B4420CB1E4BF95B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZLSlideCategory</string>
+		</dict>
+	</array>
+</dict>
+</plist>
