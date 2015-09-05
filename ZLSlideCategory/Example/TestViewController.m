@@ -30,7 +30,7 @@
     
     ZLSlideCategoryView * zlView = [[ZLSlideCategoryView alloc]init];
     zlView.titleArray = self.categoryArray;
-    zlView.titleBackgroundSelectedImage = @"NBQuan_menu_selected";
+    zlView.titleBackgroundSelectedImage = @"backgroundImage";
     zlView.frame = CGRectMake(0, 20, self.view.frame.size.width, self.view.frame.size.height - 20);
     zlView.dataSource = self;
     zlView.delegate = self;
